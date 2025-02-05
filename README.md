@@ -2,7 +2,7 @@
 
 This repository contains the code for my personal portfolio website, built as part of the CodeAlpha internship program. It showcases my skills and projects in web development.  🚀
 
-## **Demo:** [https://portfolio-5b531.web.app/] 🌐
+## **Demo:** [https://portfolio-5b531.web.app] 🌐
 
 ## **Some User Interface Images:**
 ![image](https://github.com/user-attachments/assets/ebf8de44-00e0-4444-9da3-b7a504cae611)
