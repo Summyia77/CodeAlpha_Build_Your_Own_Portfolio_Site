@@ -1,21 +1,21 @@
-# CodeAlpha Build Your Own Portfolio Site
+## CodeAlpha Build Your Own Portfolio Site
 
 This repository contains the code for my personal portfolio website, built as part of the CodeAlpha internship program. It showcases my skills and projects in web development.  🚀
 
-# **Demo:** [https://portfolio-5b531.web.app/] 🌐
+## **Demo:** [https://portfolio-5b531.web.app/] 🌐
 
 # **Some User Interface Images:**
 ![image](https://github.com/user-attachments/assets/ebf8de44-00e0-4444-9da3-b7a504cae611)
 ![image](https://github.com/user-attachments/assets/510f208e-ce0a-4b97-a839-1931c94c45d9)
 ![image](https://github.com/user-attachments/assets/286ba030-772f-473e-a997-f45fd7a674a4)
 
-# **Tech Stack:**
+## **Tech Stack:**
 
 * **Frontend:** HTML 🧱, CSS 🎨, JavaScript ☕
 * **Version Control:** Git 🐙
 * **Hosting:** Firebase 🔥
 
-# **Project Overview:**
+## **Project Overview:**
 
 This portfolio website is designed to highlight my skills and projects in a clean and user-friendly way.  It includes sections for:
 
